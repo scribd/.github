@@ -1,0 +1,5 @@
+= .github
+
+This repository contains some
+link:https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-default-community-health-file[default
+files] for use in our GitHub repositories.
